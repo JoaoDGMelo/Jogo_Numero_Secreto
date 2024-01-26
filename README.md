@@ -2,6 +2,7 @@
 
 <h2> 🔎 Sobre</h2>
 <p>Projeto individual para aprendizado de programação C# </p>
+<p>Jogo do número secreto, você consegue adivinhar o número que estou pensando?</p>
 
 ## 👨‍💻 Tecnologias
 <div>
